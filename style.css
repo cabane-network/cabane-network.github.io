@@ -1,0 +1,30 @@
+body {
+    font-family: monospace;
+    color: black;
+    margin: 0%;
+    background-color: white;
+    width: 100vw;
+    font-size: 15pt;
+    overflow-x: hidden;
+    min-width: 250px;
+}
+
+pre {
+    font-size: 10pt;
+}
+
+a {
+    color: greenyellow;
+    text-decoration: underline;
+}
+
+a:hover {
+    font-weight: bolder;
+}
+
+#intro {
+    width: 80%;
+    margin: 50px 10% 30px 10%;
+    padding: 5px;
+    z-index: 100;
+}
